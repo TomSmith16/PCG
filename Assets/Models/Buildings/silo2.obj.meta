@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: d5bfc7d833e4d2c4cac31b87893fac80
+timeCreated: 1493576317
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: cone2_cone2_auv
+    100002: cone2_copy4_cone2_auv
+    100004: cone2_copy6_cone2_auv
+    100006: Cube7_Cube7_auv
+    100008: Cube7_Cylinder1_auv
+    100010: Cube7_default
+    100012: Cube7_door
+    100014: Cube7_Frame
+    100016: Cylinder1_cone2_auv
+    100018: Cylinder1_copy3_cone2_auv
+    100020: Cylinder1_copy3_Cylinder1_auv
+    100022: Cylinder1_copy3_default
+    100024: Cylinder1_copy5_cone2_auv
+    100026: Cylinder1_copy5_Cylinder1_auv
+    100028: Cylinder1_copy5_default
+    100030: Cylinder1_Cylinder1_auv
+    100032: Cylinder1_default
+    100034: //RootNode
+    400000: cone2_cone2_auv
+    400002: cone2_copy4_cone2_auv
+    400004: cone2_copy6_cone2_auv
+    400006: Cube7_Cube7_auv
+    400008: Cube7_Cylinder1_auv
+    400010: Cube7_default
+    400012: Cube7_door
+    400014: Cube7_Frame
+    400016: Cylinder1_cone2_auv
+    400018: Cylinder1_copy3_cone2_auv
+    400020: Cylinder1_copy3_Cylinder1_auv
+    400022: Cylinder1_copy3_default
+    400024: Cylinder1_copy5_cone2_auv
+    400026: Cylinder1_copy5_Cylinder1_auv
+    400028: Cylinder1_copy5_default
+    400030: Cylinder1_Cylinder1_auv
+    400032: Cylinder1_default
+    400034: //RootNode
+    2300000: cone2_cone2_auv
+    2300002: cone2_copy4_cone2_auv
+    2300004: cone2_copy6_cone2_auv
+    2300006: Cube7_Cube7_auv
+    2300008: Cube7_Cylinder1_auv
+    2300010: Cube7_default
+    2300012: Cube7_door
+    2300014: Cube7_Frame
+    2300016: Cylinder1_cone2_auv
+    2300018: Cylinder1_copy3_cone2_auv
+    2300020: Cylinder1_copy3_Cylinder1_auv
+    2300022: Cylinder1_copy3_default
+    2300024: Cylinder1_copy5_cone2_auv
+    2300026: Cylinder1_copy5_Cylinder1_auv
+    2300028: Cylinder1_copy5_default
+    2300030: Cylinder1_Cylinder1_auv
+    2300032: Cylinder1_default
+    3300000: cone2_cone2_auv
+    3300002: cone2_copy4_cone2_auv
+    3300004: cone2_copy6_cone2_auv
+    3300006: Cube7_Cube7_auv
+    3300008: Cube7_Cylinder1_auv
+    3300010: Cube7_default
+    3300012: Cube7_door
+    3300014: Cube7_Frame
+    3300016: Cylinder1_cone2_auv
+    3300018: Cylinder1_copy3_cone2_auv
+    3300020: Cylinder1_copy3_Cylinder1_auv
+    3300022: Cylinder1_copy3_default
+    3300024: Cylinder1_copy5_cone2_auv
+    3300026: Cylinder1_copy5_Cylinder1_auv
+    3300028: Cylinder1_copy5_default
+    3300030: Cylinder1_Cylinder1_auv
+    3300032: Cylinder1_default
+    4300000: cone2_cone2_auv
+    4300002: cone2_copy4_cone2_auv
+    4300004: cone2_copy6_cone2_auv
+    4300006: Cube7_Cube7_auv
+    4300008: Cube7_Cylinder1_auv
+    4300010: Cube7_default
+    4300012: Cube7_door
+    4300014: Cube7_Frame
+    4300016: Cylinder1_cone2_auv
+    4300018: Cylinder1_copy3_cone2_auv
+    4300020: Cylinder1_copy3_Cylinder1_auv
+    4300022: Cylinder1_copy3_default
+    4300024: Cylinder1_copy5_cone2_auv
+    4300026: Cylinder1_copy5_Cylinder1_auv
+    4300028: Cylinder1_copy5_default
+    4300030: Cylinder1_Cylinder1_auv
+    4300032: Cylinder1_default
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
